@@ -1,0 +1,5 @@
+[
+    {"src": "src/twister.png", "name": "Твистер Де Люкс Острый", "cost": "184"},
+    {"src": "src/basket.png", "name": "Баскет Острый 'Крылышки и ножки'", "cost": "399"},
+    {"src": "src/burger.png", "name": "Шефбургер Де Люкс острый", "cost": "149"}
+]
